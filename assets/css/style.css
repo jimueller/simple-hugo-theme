@@ -50,6 +50,7 @@ img {
     margin-right: auto;
 }
 
-.highlight {
+.highlight,
+code {
     font-size: 0.9rem;
 }
